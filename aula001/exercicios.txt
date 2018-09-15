@@ -1,0 +1,73 @@
+1) Crie uma Classe que imprima as seguintes informações:
+  a) Seu nome
+  b) Sua idade,
+  c) O nome do seu time
+  
+2) Crie uma Classe que imprima o nome da cidade onde você nasceu.
+3) Crie uma classe que imprima o seu endereço com os dados abaixo:
+   rua
+   numero
+   bairro
+   cidade
+   estado
+   pais
+4) Crie um classe que imprima o nome do seu filme predileto.
+05) Crie um programa que armazene 3 notas com os valores 10,9 e 8 e em seguida, calcule e apresente o resultado da média das notas.
+06) Crie um programa que imprima o resultado do calculo na área de um retângulo de base 8 e altura 15; (a = b * h)
+07) Crie um programa que calcule a área de um círculo de diamentro igual a 20. (a = PI * (r * r), onde r corresponde ao raio e PI = 3.1416)
+08) Crie um programa que  informe a quantidade de minutos contidos em 90 dias.
+09) Crie um programa que calcule o perímetro de um quadrado de lado igual a 25;
+10) Crie um programa que calcule o valor correspondente a 13.5% sobre o valor de 870.50;
+
+Qual o método utilizado para verificar o menor número?
+Qual o método utilizado para verificar o maior número?
+Qual o método utilizado para realizar operação de potênciação?
+O que faz o método floor?
+11) Utilizando o método Math.min, crie um programa que  dados os números, 10,7,20,30. Informe qual dos números é o menor da listagem.
+
+12) Utilizando o método Math.max, crie um programa que  dados os números, 3,7,25,10. Informe qual dos números é o maior da listagem.
+
+13) Crie um programa que calcule e escreva o valor de 2 elevado a potência 8.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
