@@ -3,5 +3,47 @@
 03) escreva um programa que solicite o valor de um produto e o percentual de desconto, em seguida calcule e apresente o valor de desconto e o valor do produto com o desconto aplicado.
 04) Escreva um programa que solicite o peso e a altura de um pessoa e em seguida calcule o valor do IMC. onde IMC = peso /(altura * altura).
 05)Escreva um programa que solicite a idade do usuário em anos e calcule o valor da idade em dias, considere um ano igual a 365 dias.
-06) Escreva um programa que solicite a idade do usuário em dias e em seguida calcule e apresente o valor da idade  em anos meses e dias. Ex. idade = 396 dias, => 1 ano 1 mês e 1 dia. Considere que cada mês possui 30 dias e que um ano possui 360 dias.
+06) Escreva um programa que solicite a idade do usuário em dias e em seguida calcule e apresente o valor da idade  em anos meses e dias. Ex. idade = 396 dias, => 1 ano 1 mês e 6 dia. Considere que cada mês possui 30 dias e que um ano possui 360 dias.
 07) Escreva um programa que solicite um número e em seguida calcule o valor do número elevado a potência de 2.
+8) Escreva um programa que solicite 3 notas e em seguida calcule e apresente os seguintes dados:
+  a) O valor da maior nota (Math.max)
+  b) O valor da menor nota (Math.min)
+09)  Escreva um programa que solicite 3 notas e em seguida calcule a média ponderada aplicando os pesos 2, 3 e 5 respectivamente. Ao final o programa deve apresentar o resultado da média calculada.
+10) Escreva um programa que solicite 3 notas e em seguida calcule a média das notas. Se a média for maior ou igual a 7 escreva a mensagem "Aprovado" senão escreva a mensagem "Reprovado".
+11) Escreva um programa que solicite a idade do usuário e sem seguida escreva uma mensagem informando se ele tem ou não idade para fazer a CNH.
+12) Escreva um programa que solicite 4 notas e em seguida calcule a média das notas. O programa deve apresentar uma mensagem para o usuário de acordo com o valor da média, conforme a tabela abaixo:
+   Se MÉDIA maior ou igual a 9 a mensagem deve ser Conceito A
+   Se MÉDIA maior ou igual a 8 e MÉDIA menor que 9 a mensagem deve ser Conceito B
+   Se MÉDIA maior ou igual a 6 e MÉDIA menor que 8 a mensagem deve ser Conceito C
+   Se MÉDIA maior ou igual a 5 e MÉDIA menor que 6 a mensagem deve ser Conceito D
+   Se nota for menor que 5 a mensagem deve ser "Insuficiente"
+13) Escreva um programa que solicite um número inteiro ao usuário e em seguida escreva uma mensagem informando se o número digitado é PAR ou IMPAR.
+14) Escreva um programa que soicite a idade do usuário e apresente uma classificação de acordo com a tabela abaixo
+   idade >=18 "Categoria adulto"
+   idade entre 14 e 17 "Categoria Juvenil"
+   idade entre 12 e 13 "Categoria Infanto Juvenil"
+   idade entre 9 e 11 "Categoria Infantil"
+   idade menor que 9 "Categoria Mirim"   
+15) Escreva um  que solicite o valor do salário de uma pessoa. Em seguida o programa deve calcular o valor de desconto do inss (11%). Caso o salário com o desconto do inss já
+    aplicado seja maior que 1800, deve-se aplicar a seguinte tabela de descontos IR.
+     A) Salário maior que 1800 e menor ou igual 2400 percentual IR = 7.5%
+     B) Salário maior que 2400 e menor ou igual 3600 percentual IR = 24%
+     B) Salário superior a 3600 percentual IR = 32%
+    Ao final o  deve apresentar o valor do salario inicial, o valor do desconto do
+     inss, o valor e o percentual do desconto de IR e o valor do salário Líquido.
+	 
+16) Escreva um  que apresente o menu abaixo:
+    1 - Depositar
+    2 - Sacar
+    3 - Verificar Saldo
+
+    Em seguida conforme o número digitado apresente uma das mensagens abaixo:
+    codigo: 1 mensagem: Você Escolheu a opção Depositar
+    codigo: 2 mensagem: Você Escolheu a opção Sacar
+    codigo: 3 mensagem: Você Escolheu a opção Verificar Saldo
+	
+17) Crie um programa que solicite o nome do usuário e em seguida verifique se o nome informado possui ao menos 3 letras. (String.length())
+Se o nome possuir menos que 3 letras apresente uma mensagem informando que o nome informádo é inválido.
+
+18) Escreva um programa que solicite o ano de nascimento do usuário, e em seguida escreva uma mensagem informando se o ano informado foi um ano bissexto. São bissexto todos os anos múltiplos de 400,  também são bissextos todos os anos multiplos de 4 e que não são múltiplos de 100.  
+   
