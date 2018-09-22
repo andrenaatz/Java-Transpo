@@ -1,0 +1,7 @@
+01) Escreva um programa que solicite 3 notas e em seguida calcule e apresente a média das notas.
+02) Escreva um programa que solicite  o valor da base e da altura de um retângulo e em seguida calcule e apresente o valor da área e do perímetro do retângulo.
+03) escreva um programa que solicite o valor de um produto e o percentual de desconto, em seguida calcule e apresente o valor de desconto e o valor do produto com o desconto aplicado.
+04) Escreva um programa que solicite o peso e a altura de um pessoa e em seguida calcule o valor do IMC. onde IMC = peso /(altura * altura).
+05)Escreva um programa que solicite a idade do usuário em anos e calcule o valor da idade em dias, considere um ano igual a 365 dias.
+06) Escreva um programa que solicite a idade do usuário em dias e em seguida calcule e apresente o valor da idade  em anos meses e dias. Ex. idade = 396 dias, => 1 ano 1 mês e 1 dia. Considere que cada mês possui 30 dias e que um ano possui 360 dias.
+07) Escreva um programa que solicite um número e em seguida calcule o valor do número elevado a potência de 2.
