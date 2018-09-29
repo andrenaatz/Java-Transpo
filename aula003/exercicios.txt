@@ -1,0 +1,26 @@
+01) Escreva um programa que solicite a idade do usuário e escreva uma mensagem informando se o usuário já pode votar ou não. (Utilize o operador ternário)
+02) Escreva um programa que solicite o valor do salário do usuário e em seguida apresente uma mensagem informando se o usuário é isento do imposto de renda ou não. Considere isento o usuário que possuir um salário de até R$1800,00.(Utilize o operador ternário)
+03) Escreva um programa que a presente o menu abaixo e conforme opção selecionada apresente a mensagem correspondente:
+Opções
+1 - Cadastrar Produto
+2 - Listar Produtos
+3 - Pesquisar produtos
+4 - Remover produto
+5 - Saír
+
+Mensagens:
+1 ->  Você escolheu a opção Cadastrar Produto
+2 ->  Você escolheu a opção Listar Produtos
+3 ->  Você escolheu a opção Pesquisar Produtos
+4 ->  Você escolheu a opção Remover Produto
+5 -> Obrigado por usar nossos terminais de atendimento
+opção < 1 ou opção > 5 -> Opção inválida.
+04) Escreva um programa que solicite um número entre 1 e 12 e em seguida apresente o nome do mês correspondente. O mês de Janeiro deve corresponder ao número 1 e os demais meses devem seguir a ordem subsequente.
+05) Escreva um programa que solicite o nome do usuário e em seguida informe a quantidade de caracteres do nome informado;
+06) Escreva um programa que solicite o nome do usuário e em seguida verifique se o nome informado possui ao menos 3 caracteres, já descontados os espacos em branco do início e do final. Caso o nome informado possua menos de 3 caracteres apresente a mensagem "Nome inválido", Se o nome informado passar na validação apresente a mensagem "Bem vindo " seguido do nome informado.
+07) Escreva um programa que solicita uma frase ao usuário e em seguida apresenta a frase informada sem as vogais.
+08) Escreva um programa que solicita uma frase ao usuário e em seguida apresenta apenas a primeira palavra da frase.
+09) Escreva um programa que solicita uma frase ao usuário e em seguida apresenta apenas a última palavra.
+10) Escreva um programa que solicita uma palavra e em seguida escreva uma mensagem informando se  a palavra informada possui a letra 'l' ou 'L'
+11) Escreva um programa que solicita uma palavra e em seguida apresente a palavra digitada em caixa alta e em caixa baixa.
+12) Escreva um programa que solicita uma frase e em seguida apresente a frase digitada metade em caixa baixa e a outra metade em caixa alta.
