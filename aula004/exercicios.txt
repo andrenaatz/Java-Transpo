@@ -1,0 +1,79 @@
+01) Escreva um programa que solicite a idade do 
+usuário e em seguida apresente o valor informado. Caso 
+o usuário tenha digitado um valor negativo o programa 
+deve apresentar uma mensagem informando que o valor é 
+inválido e deve solicitar a idade novamente.
+
+02) Escreva um programa que apresente o menu abaixo 
+até que o usuário digite 'S';
+  A - abrir arquivo
+  B - Procurar arquivo
+  C - Download arquivo
+  D - Upload de arquivo
+  S - Sair
+
+03) Escreva um programa que solicite uma palavra e em 
+seguida apresente a palavra de modo inverso (de trás 
+para frente). Utilize o comando do/while para criar a 
+palavra no modo inverso; 
+04) Escreva um programa que apresente os números pares 
+entre 100 e 200.
+05) Escreva um programa que apresente o resultado da 
+soma dos 50 primeiros números inteiros positivos. 
+(Utilize o comando for)
+06) Escreva um programa que solicite um número entre 1 
+e 20, e em seguida apresente o valor do fatorial do 
+número informado. O programa deve validar os número 
+informado solicitando um número correto sempre que o 
+usuário informar um valor fora do range.(Utilize 
+do/while e for)
+07) Escreva um programa que  solicite dois números ao 
+usuário, onde o segundo número deve ser maior que o 
+primeiro. Em seguida escreva os números contidos entre 
+o primeiro e o segundo número digitado. O programa 
+deve voltar a solicitar o segundo número sempre que o 
+usuário digitar um valor menor ou igual ao primeiro. 
+(Utilize do/while e for)
+08)Escreva um programa que solicite uma palavra ao 
+usuário e em seguida escreva a palavra conforme o 
+exemplo abaixo.(Utilize o comando for)
+Ex: palavra = "Brasil"
+B
+Br
+Bra
+Bras
+Brasi
+Brasil
+
+
+
+09) Escreva um programa que solicite 5 notas e após 
+solicitar  última nota, apresente todas as notas 
+digitadas.
+10) Escreva um programa que solicite 5 nomes e após 
+solicitar o último nome, apresente todos os nomes 
+digitados na sequência inversa (último nome deve ser o 
+primeiro, penúltimo, deve ser o segundo, etc, primeiro 
+deve ser o último).
+11) Escreva um programa que solicite 10 notas e em 
+seguida apresente as notas informadas juntamente com a 
+maior e a menor nota.
+12) Escreva um programa que solicite 10 notas e em 
+seguida calcule a média das notas. O programa deve 
+apresentar todas as notas que possuem valor igual ou 
+maior ao valor da média.
+13) Escreva um programa que solicite  10 nomes e em 
+seguida apresente o nome que possui a maior quantidade 
+de caracteres.
+14)Escreva um programa que solicite 10 notas e em 
+seguida calcule e apresente o valor da média das 
+notas, juntamente com as notas que possuem valor menor 
+que a média.
+15) Escreva um programa que solicite o valor de 10 
+produtos e em seguida escreva o valor dos produtos 
+aplicando um desconto de 10%.
+16) Escreva um programa que solicite o nome e a nota 
+de 10 alunos, em seguida calcule a média das notas e 
+apresente o nome e a nota dos alunos que tiveram nota 
+maior que a média.
+
