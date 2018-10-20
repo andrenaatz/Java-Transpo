@@ -1,0 +1,24 @@
+01) Crie um programa que solicite 3 notas de 5 alunos e em seguida apresente as notas cadastradas. As notas dos alunos devem ser impresas agrupadas linha a linha. (Cada aluno deve ter todas as notas apresentadas na mesma linha e deve possuir uma linha para cada aluno) Armazene as notas em uma matriz.
+
+02)Crie um programa que solicite 3 notas de 5 alunos e em seguida calcule a média das notas de cada aluno. O programa deve apresentar as notas dos alunos seguida da média do aluno. Utilize uma matriz para armazenar as notas dos alunos e um array para armazenar as médias.
+
+03) Dada atriz abaixo:
+10 9 8 7
+6  5 4 3
+2  1 2 3
+4  5 6 7
+Crie um programa que armazene a matriz e realize as seguites operações:
+  a)Calcule e apresente o valor da soma de todos os valores da matriz;
+  b)Apresente os valores diagonal principal
+  c)Apresente os valores da diagonal secundária
+  d)Crie e apresente uma nova matriz que armazene o valor referente ao
+    item de cada coluna multipliado pelo valor do item da diagonal principal da respectiva linha.
+  e)Crie uma nova matriz que deve armazenas os valores acima da diagonal principal multiplicados pelo valor da diagonal secundária, e os valores abaixo da diagonal principal devem ser multiplicados pelo proprio valor da diagonal principal. Os valores da diagonal principal devem ser elevados ao cubo.
+  
+  
+  
+  
+  
+
+  
+  
