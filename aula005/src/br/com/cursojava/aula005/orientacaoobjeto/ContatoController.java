@@ -3,6 +3,7 @@ package br.com.cursojava.aula005.orientacaoobjeto;
 public class ContatoController {
 	
 	Contato[] contatos = new Contato[50];
+	
 	int quantidade = 0;
 	public void criarContato(String nome, String email, String telefone) {
 		if(contatos.length > quantidade){

@@ -1,0 +1,44 @@
+Crie um programa que realize o cadastro de Produtos.
+O programa deve armazenar os dados cadastrados em uma Lista e deve possuir as opções abaixo:
+
+1 - Cadastrar produto
+2 - Listar Produtos
+3 - Remover Produtos
+
+O cadastro de produtos deve possuir os seguintes dados:
+nome
+descricao
+preco.
+
+Crie um programa que realize o cadastro de Alunos.
+O programa deve armazenar os dados cadastrados em uma Lista e deve possuir as opções abaixo:
+
+1 - Cadastrar Aluno
+2 - Listar Alunos
+3 - Remover Aluno
+
+O cadastro de Alunos deve possuir os seguintes dados:
+matricula
+nome
+email
+telefone
+nomeDoPai
+nomeDaMae
+cpf
+
+obs. o método equals deve considerar apenas o campo matricula.
+
+Crie um programa que realize o cadastro de Projetos.
+O programa deve armazenar os dados cadastrados em uma Lista e deve possuir as opções abaixo:
+
+1 - Cadastrar Projeto
+2 - Listar Projetos
+3 - Remover projeto
+
+O cadastro de Projetos deve possuir os seguintes dados:
+id
+nome
+responsavel
+descrição
+
+obs. o método equals deve considerar apenas o campo id.
